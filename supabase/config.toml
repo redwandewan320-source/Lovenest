@@ -1,0 +1,4 @@
+project_id = "lovenest"
+
+[functions.track-event]
+verify_jwt = false
